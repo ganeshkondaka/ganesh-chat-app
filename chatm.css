@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 1%;
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+
+}
+h2{
+    text-align: center;
+}
+#para{
+ margin-left: 1%;
+}
+.container{
+    display: flex;
+    align-items: center;
+    gap: 3px;
+
+}
+
+textarea{
+    display: inline-block;
+    width: 250px;
+    height: 50px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 10px 10px 10px 10px;
+    background-color: rgb(146, 212, 146);
+    font-size: 15px;
+   
+}
+
+
+#submit{
+    width: 50px;
+    height: 30px;
+    border: none;
+    background-color: rgb(207, 207, 207);
+    border-radius: 5px;
+    margin-bottom: 0px;
+}
+
+.comment{
+    margin: 6px;
+    border: 2px solid rgb(109, 109, 109);
+    border-radius: 5px;
+    height: 40px;
+    width: 250px;
+}
+
+#mode{
+    margin-left: 85%;
+    margin-top: 10px;
+    border: none;
+    background-color: transparent;
+    color: rgb(129, 129, 129);
+    font-size: 30px;
+    
+}
+
+
